@@ -4,7 +4,8 @@ kheer
 paneer
 pasta
 
-
+pizza
+burger
 
 
 thank you :)
